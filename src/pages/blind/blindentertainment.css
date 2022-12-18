@@ -1,0 +1,29 @@
+.container{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.container p{
+    font-size: 36px;
+}
+
+.music{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: 100px;
+}
+
+.music li{
+margin-right: 50px;   
+}
+
+img{
+    width: 430px;
+    height: 400px;
+    object-fit: cover;
+}
+.music p{
+    text-align: center;
+}
